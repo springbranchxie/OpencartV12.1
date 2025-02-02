@@ -1,0 +1,55 @@
+18:26:26.160[main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\backup\OpencartV12.1\grouping.xml"
+18:26:26.417[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\backup\OpencartV12.1\grouping.xml
+
+18:26:28.378[main]INFO  testCases.TC001_AccountRegistrationTest-******** Starting TC001_AccountRegistrationTest*********
+18:26:28.701[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on MyAccount Link
+18:26:29.143[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Registr Link
+18:26:29.144[main]INFO  testCases.TC001_AccountRegistrationTest-Providing cutomer details....
+18:26:32.227[main]INFO  testCases.TC001_AccountRegistrationTest-Validationg expected message....
+18:26:32.259[main]INFO  testCases.TC001_AccountRegistrationTest-******Finished***********
+18:26:33.872[main]INFO  testCases.TC002_LoginTest-********Starting TC002_LoginTest*********
+18:26:35.153[main]INFO  testCases.TC002_LoginTest-*********Finished TC002_LoginTest*******
+21:04:04.915[main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\backup\OpencartV12.1\crossbrowsertesting.xml"
+21:04:05.189[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\backup\OpencartV12.1\crossbrowsertesting.xml
+
+21:04:11.041[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-******** Starting TC001_AccountRegistrationTest*********
+21:04:13.268[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-******** Starting TC001_AccountRegistrationTest*********
+21:04:13.285[TestNG-tests-3]INFO  testCases.TC001_AccountRegistrationTest-******** Starting TC001_AccountRegistrationTest*********
+21:04:13.528[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Clicked on MyAccount Link
+21:04:13.738[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-Clicked on MyAccount Link
+21:04:13.952[TestNG-tests-3]INFO  testCases.TC001_AccountRegistrationTest-Clicked on MyAccount Link
+21:04:14.609[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Registr Link
+21:04:14.627[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Providing cutomer details....
+21:05:15.399[main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\backup\OpencartV12.1\crossbrowsertesting.xml"
+21:05:15.607[main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\backup\OpencartV12.1\crossbrowsertesting.xml
+
+21:05:21.456[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-******** Starting TC001_AccountRegistrationTest*********
+21:05:21.456[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-******** Starting TC001_AccountRegistrationTest*********
+21:05:21.456[TestNG-tests-3]INFO  testCases.TC001_AccountRegistrationTest-******** Starting TC001_AccountRegistrationTest*********
+21:05:21.709[TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationTest-Clicked on MyAccount Link
+21:05:21.919[TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationTest-Clicked on MyAccount Link
+21:05:22.127[TestNG-tests-3]INFO  testCases.TC001_AccountRegistrationTest-Clicked on MyAccount Link
+21:05:22.757[TestNG-tests-3]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Registr Link
+21:05:22.760[TestNG-tests-3]INFO  testCases.TC001_AccountRegistrationTest-Providing cutomer details....
+21:29:39.877[main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\backup\OpencartV12.1\master.xml"
+21:29:44.757[main]INFO  testCases.TC001_AccountRegistrationTest-******** Starting TC001_AccountRegistrationTest*********
+21:29:44.927[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on MyAccount Link
+21:29:45.634[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Registr Link
+21:29:45.684[main]INFO  testCases.TC001_AccountRegistrationTest-Providing cutomer details....
+21:29:47.230[main]INFO  testCases.TC001_AccountRegistrationTest-Validationg expected message....
+21:29:47.281[main]INFO  testCases.TC001_AccountRegistrationTest-******Finished***********
+21:29:51.208[main]INFO  testCases.TC002_LoginTest-********Starting TC002_LoginTest*********
+21:32:06.742[main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\backup\OpencartV12.1\master.xml"
+21:32:13.618[main]INFO  testCases.TC001_AccountRegistrationTest-******** Starting TC001_AccountRegistrationTest*********
+21:32:13.975[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on MyAccount Link
+21:32:14.709[main]INFO  testCases.TC001_AccountRegistrationTest-Clicked on Registr Link
+21:32:14.711[main]INFO  testCases.TC001_AccountRegistrationTest-Providing cutomer details....
+21:32:17.900[main]INFO  testCases.TC001_AccountRegistrationTest-Validationg expected message....
+21:32:17.963[main]INFO  testCases.TC001_AccountRegistrationTest-******Finished***********
+21:32:19.814[main]INFO  testCases.TC002_LoginTest-********Starting TC002_LoginTest*********
+21:32:21.707[main]INFO  testCases.TC002_LoginTest-*********Finished TC002_LoginTest*******
+22:05:40.252[main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\backup\OpencartV12.1\master.xml"
+22:05:43.207[main]INFO  testCases.TC001_AccountRegistrationTest-******** Starting TC001_AccountRegistrationTest*********
